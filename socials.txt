@@ -1,0 +1,24 @@
+<div class="card-groups">
+    <div class="card-group" data-index="0" data-status="active">
+        <div class="little-card card">
+        </div>
+        <div class="big-card card">
+         <a id="link" href="https://github.com/tech-dev-amit" class="fill-div"></a>
+        </div>
+        <div class="little-card card">
+        </div>
+        <div class="big-card card">
+        <a id="link" href="https://sleeplesscodersalesforceblogspotcom.notion.site/JavaScript-95f452724c414449904396e79e75c9b6" class="fill-div"></a>
+        </div>
+        <div class="little-card card">
+        </div>
+        <div class="big-card card">
+        <a id="link" href="https://www.linkedin.com/in/amit-lulla-techgenius" class="fill-div"></a>
+        </div>
+        <div class="little-card card">
+        </div>
+        <div class="big-card card">
+        <a id="link" href="https://www.linkedin.com/in/amit-lulla-techgenius" class="fill-div"></a>
+        </div>
+    </div>
+</div>
