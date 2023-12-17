@@ -160,7 +160,7 @@ if tabs == "Home":
     color_name="blue-green-70",
     )
     annotated_text(
-        "I am a skilled ", ("Software Developer and AI Tools Developer", "", "#ff6b6b"), "with over 1 year of experience working at Dreamwares IT Solutions and Integrately Company. I have a strong background in Salesforce development and front-end development, with a focus on AI tools development and research. I am a quick learner and have a deep understanding of cutting-edge AI tools, technologies, and frameworks. I am dedicated to driving innovation and providing impactful business solutions through AI."
+        "As a seasoned", ("Software Developer and AI Tools Developer", "", "#ff6b6b"), ", they bring over 1 year of hands-on experience gained at Dreamwares IT Solutions and Integrately Company. Proficient in Salesforce and front-end development, their primary expertise lies in the realm of crafting and researching cutting-edge AI tools. Recognized for their aptitude as a quick learner, they possess a deep understanding of the latest AI technologies and frameworks. Their commitment to driving innovation is evident in their ability to deliver impactful business solutions through the strategic application of artificial intelligence."
     )
 
     colored_header(
