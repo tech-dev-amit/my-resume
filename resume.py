@@ -129,7 +129,7 @@ if tabs == "Home":
         st.title(':blue[Amit Lulla] :sunglasses:')
         st.markdown(
         "👋 Howdy, Code Conjurer! 🚀✨\n\n"
-        "I'm Amit Lulla, the tech wizard who turns \"404 Not Found\" into \"200 OK\" with a sprinkle of Python and a dash of JavaScript. 🐍🤖\n\n"
+        "I'm the tech wizard who turns \"404 Not Found\" into \"200 OK\" with a sprinkle of Python and a dash of JavaScript. 🐍🤖\n\n"
         "🧙‍♂️ When I'm not wrestling with code, I'm the maestro of Generative AI, the guru of Prompt Engineering, and the sheriff of staying up-to-date with more AI models than I have coffee cups. ☕🤯\n\n"
         "💻 Armed with my trusty keyboard and an endless supply of cat gifs, I navigate the GitHub jungle, swinging between repositories like Tarzan in the digital vines. 🌐🐒\n\n"
         "📚 Docs are my love language. I speak fluent README and can decipher research papers faster than you can say \"bug-free.\" 📖💬\n\n")
