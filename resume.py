@@ -65,7 +65,7 @@ You can reach me at {email}, and you can find me on:
 - LinkedIn: [Amit Lulla]({linkedin})
 - GitHub: [amitlulla5920]({github})
 """
-profile_img = "images\profile.png"
+profile_img = "https://github.com/tech-dev-amit/my-resume/assets/154057302/25093879-b643-426d-803a-70ed1780cf1a"
 
 # Define your projects, skills, and social links 
 projects = [
